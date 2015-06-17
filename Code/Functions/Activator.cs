@@ -21,7 +21,6 @@ namespace Sandbox.Functions
         /// Compiles an instance activator.
         /// </summary>
         /// <param name="objectType">Type of the object to be created.</param>
-        /// <param name="definition">Constructor parameters as string.</param>
         /// <returns>An compiled instance activator to be used for activating new instances of the object.</returns>
         public static InstanceActivator CompileDefaultConstructorToInstanceActivator(Type objectType)
         {
