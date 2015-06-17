@@ -27,7 +27,7 @@ namespace Sandbox.Tests
             Object activatedObject = Sandbox.Functions.Activator.CompileDefaultConstructorToInstanceActivator(typeof(List<String>))();
 
             Assert.IsNotNull(activatedObject);
-            Assert.IsInstanceOfType(activatedObject, typeof(Collection<String>));
+            Assert.IsInstanceOfType(activatedObject, typeof(List<String>));
         }
     }
 }
