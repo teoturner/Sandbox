@@ -1,0 +1,7 @@
+C:\Workspace\Sandbox\Troubleshooting\Tests\bin\Debug\Sandbox.Tests.dll
+C:\Workspace\Sandbox\Troubleshooting\Tests\bin\Debug\Sandbox.Tests.pdb
+C:\Workspace\Sandbox\Troubleshooting\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Workspace\Sandbox\Troubleshooting\Tests\obj\Debug\Sandbox.Tests.dll
+C:\Workspace\Sandbox\Troubleshooting\Tests\obj\Debug\Sandbox.Tests.pdb
+C:\Workspace\Sandbox\Troubleshooting\Tests\bin\Debug\Sandbox.Functions.dll
+C:\Workspace\Sandbox\Troubleshooting\Tests\bin\Debug\Sandbox.Functions.pdb
